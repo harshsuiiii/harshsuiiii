@@ -186,11 +186,11 @@ Grouped by how recently I've shipped with it. Everything here appears in a repo 
 **Latest pushes**
 
 <!--START_SECTION:pushes-->
+- `2026-11-07` **[Auto-Redteaming-Agent](https://github.com/harshsuiiii/Auto-Redteaming-Agent)**
 - `2026-10-30` **[rate-limiter](https://github.com/harshsuiiii/rate-limiter)** — One shared limit across N servers, built on atomic Redis Lua scripts
 - `2026-10-26` **[botforge-saas](https://github.com/harshsuiiii/botforge-saas)** — Multi-tenant SaaS to create, embed and monitor AI chatbots
 - `2026-10-20` **[Booking-Agent](https://github.com/harshsuiiii/Booking-Agent)** — Natural-language flight search for travel agents
 - `2026-08-30` **[ReviveX](https://github.com/harshsuiiii/ReviveX)** — AI payment-recovery agent with deterministic compliance rules
-- `2026-08-07` **[aurora-DNS](https://github.com/harshsuiiii/aurora-DNS)** — DNS server from scratch in TypeScript, with caching and failover
 <!--END_SECTION:pushes-->
 
 <picture>
